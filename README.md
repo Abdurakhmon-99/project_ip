@@ -1,2 +1,2 @@
 # project_ip
-project fot IP course
+This is special repository for group project of IUT sophomore students.
